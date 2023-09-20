@@ -2,6 +2,7 @@
   名称：{{ name }} 数量：{{ num }} 价格：{{ price }} 总价：{{ res }}
   <button @click="addn">加数量</button>
   <button @click="addp">加价格</button>
+  <div>user修改</div>
 </template>
 
 <script>
